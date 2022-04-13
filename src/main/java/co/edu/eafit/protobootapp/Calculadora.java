@@ -2,7 +2,7 @@ package co.edu.eafit.protobootapp;
 
 public class Calculadora {
 
-    public Double cuadrado(Double numero) {
+    public Double cuadrado(Double numero) { //Cambio para probar pipeline final
         return numero * numero; //test
     }
     
